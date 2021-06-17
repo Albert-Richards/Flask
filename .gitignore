@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Secrets
+# Confidential
 secrets.txt
+
+# database files
+*.db
